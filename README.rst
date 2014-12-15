@@ -10,3 +10,7 @@ More information here: https://medium.com/@level09/create-your-first-minion-with
 
 ** To install this, please refer to http://enferno.io
 
+
+** Want to deploy this easily on any Ubuntu instance ? just use this ansible script: 
+
+https://github.com/level09/enferno-ansible
